@@ -1,0 +1,32 @@
+# Bibliotecas básicas para el manejo de datos
+numpy==1.22.0
+pandas==1.4.0
+
+# Bibliotecas para visualización de datos
+matplotlib==3.5.1
+seaborn==0.11.2
+
+# Bibliotecas para preprocesamiento y selección de características
+scikit-learn==1.0.2
+imbalanced-learn==0.9.0
+
+# Bibliotecas para algoritmos de aprendizaje automático
+xgboost==1.6.0
+lightgbm==3.3.2
+tensorflow==2.8.0
+keras==2.8.0
+
+# Bibliotecas para interpretabilidad del modelo
+shap==0.40.0
+lime==0.2.0.1
+
+# Bibliotecas para optimización de hiperparámetros y procesamiento en la nube
+optuna==2.10.0
+boto3==1.21.0
+
+# Bibliotecas para creación de APIs y despliegue
+flask==2.1.0
+
+# Bibliotecas para el control de versiones y manejo de configuraciones
+gitpython==3.1.27
+pyyaml==6.0
