@@ -22,7 +22,7 @@ El conjunto de datos contiene transacciones financieras con información como el
 
 - `data/`: Directorio para los archivos de datos.
 - `modelos/`: Directorio para guardar los modelos entrenados.
-- `documents/`: Informe de comparación de modelos.
+- `documentos/`: Informe de comparación de modelos.
 - `requirements.txt`: Archivo con las dependencias del proyecto.
 
 ## Contribución
