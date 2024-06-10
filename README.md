@@ -21,15 +21,8 @@ El conjunto de datos contiene transacciones financieras con información como el
 ## Estructura del Proyecto
 
 - `data/`: Directorio para los archivos de datos.
-- `models/`: Directorio para guardar los modelos entrenados.
-- `src/`: Directorio con el código fuente del proyecto.
-  - `data_processing.py`: Módulo para el preprocesamiento de datos.
-  - `feature_selection.py`: Módulo para la selección de características.
-  - `model_training.py`: Módulo para el entrenamiento de modelos.
-  - `evaluation.py`: Módulo para la evaluación de modelos.
-  - `utils.py`: Módulo con funciones de utilidad.
-- `notebooks/`: Directorio con notebooks de Jupyter para análisis exploratorio y experimentación.
-- `main.py`: Script principal para ejecutar el proyecto.
+- `modelos/`: Directorio para guardar los modelos entrenados.
+- `documents/`: Informe de comparación de modelos.
 - `requirements.txt`: Archivo con las dependencias del proyecto.
 
 ## Contribución
